@@ -1,0 +1,12 @@
+## Project Demonstration Video
+
+Google Drive Folder: https://drive.google.com/drive/folders/1xLLL068m0faj8EOpl6B31MoSCpsLGaFu
+
+The project demonstration video will be available in the Google Drive folder.
+
+## Project Documentation
+
+* README Template
+* Fictional Example README
+* Technical Report
+* Project Demonstration Video
